@@ -7,7 +7,7 @@ I'm a Software Developer that wants to bring people together with videogames.
 
 <h3>- 📫 How to reach me:</h3>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Jumoc-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=jumoc0 "Follow on Twitter")
+[![Twitter Badge](https://img.shields.io/badge/-@Jumoc-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Jumoc0 "Follow on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/-Jumoc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wisvem/)](https://www.linkedin.com/in/jumoc/)
 
 <!--
