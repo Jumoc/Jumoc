@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hey I'm Jumoc 🤟
+
+I'm a Software Developer that wants to bring people together with videogames.
 
 ![](https://github.com/Jumoc/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Jumoc/github-stats/blob/master/generated/languages.svg)
+
+- 📫 How to reach me:
+[![Twitter Badge](https://img.shields.io/badge/-@Jumoc-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=jumoc0 "Follow on Twitter")
+[![Linkedin Badge](https://img.shields.io/badge/-Jumoc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wisvem/)](https://www.linkedin.com/in/jumoc/)
 
 <!--
 **Jumoc/Jumoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
