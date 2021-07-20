@@ -1,6 +1,6 @@
 ### Hey I'm Jumoc 🤟
 
-I'm a Software Developer that wants to bring people together with videogames.
+I'm a Software Developer that wants to bring people together with videogames and technology.
 
 ![](https://github.com/Jumoc/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Jumoc/github-stats/blob/master/generated/languages.svg)
