@@ -1,4 +1,4 @@
-### Hey I'm Jumoc ![Pug icon](https://cdn-icons-png.flaticon.com/512/4843/4843845.png)
+### Hey I'm Jumoc <img src="https://cdn-icons-png.flaticon.com/512/4843/4843845.png" alt="Pug icon" style="height: 34px; width:34px;"/>
 
 I'm a full stack developer with a strong focus on frontend magic. React.js, Next.js, and Node.js enthusiast 🚀. I wield React to craft dynamic and responsive user interfaces, infusing them with the latest web technologies like JavaScript, HTML, and CSS. On the backend, I'm no stranger to the realms of Node.js and PostgreSQL, weaving them together for efficient, scalable server-side applications.
 
