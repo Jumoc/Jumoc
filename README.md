@@ -1,4 +1,4 @@
-<div style="margin-left: 15px; display: flex; align-items: center; font-weight: bold; gap: 20px;">
+<div style="margin-left: 15px; display: flex; margin-top: auto; margin-bottom: auto; font-weight: bold; gap: 20px;">
 <img src="https://cdn-icons-png.flaticon.com/512/4843/4843845.png" alt="Pug icon" style="height: 34px; width:34px;"/>
 Hello, I'm Jumoc
 </div>
