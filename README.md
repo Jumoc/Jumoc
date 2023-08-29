@@ -1,4 +1,7 @@
-### Hey I'm Jumoc <img src="https://cdn-icons-png.flaticon.com/512/4843/4843845.png" alt="Pug icon" style="height: 34px; width:34px;"/>
+<div style="margin-left: 15px; display: flex; align-items: center; font-weight: bold; gap: 20px;">
+<img src="https://cdn-icons-png.flaticon.com/512/4843/4843845.png" alt="Pug icon" style="height: 34px; width:34px;"/>
+Hello, I'm Jumoc
+</div>
 
 I'm a full stack developer with a strong focus on frontend magic. React.js, Next.js, and Node.js enthusiast 🚀. I wield React to craft dynamic and responsive user interfaces, infusing them with the latest web technologies like JavaScript, HTML, and CSS. On the backend, I'm no stranger to the realms of Node.js and PostgreSQL, weaving them together for efficient, scalable server-side applications.
 
@@ -10,18 +13,3 @@ I thrive on integrating backend services and APIs to create seamless user experi
 <h3>- 📫 How to reach me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jumoc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wisvem/)](https://www.linkedin.com/in/jumoc/)
-
-<!--
-**Jumoc/Jumoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
